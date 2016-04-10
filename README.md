@@ -8,10 +8,10 @@
   
  I don't know why, maybe key shapes are too complex to resize. 
 
-* Some keys don't blink.  
+* Some keys are not blinking.  
   
   Function lock: do not send a scan code.  
-  Keys that have same scan code with other keys.  
+  Keys that have same scan code with other keys.(PageUp, PageDown in Editing, Keypad Backspace)  
 
 
 #Add rules  
