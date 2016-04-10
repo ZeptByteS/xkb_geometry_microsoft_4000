@@ -1,7 +1,7 @@
 #xkb geometry for  
 #Microsoft Natural Ergonomic Keyboard 4000
 
-![](https://github.com/ZeptByteS/xkb_geometry_microsoft_4000/blob/master/xkb_geometry_natural_ergonomic_4000_large.png)  
+![](https://github.com/ZeptByteS/xkb_geometry_microsoft_4000/blob/master/microsoft_ergo_4000.png)  
   
 #**Problems**  
 * Keyboard layout chart window crash when resize window with mouse drag / maximize vertically.  
