@@ -1,8 +1,24 @@
-/usr/share/X11/xkb/rules/evdev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /usr/share/X11/xkb/rules/evdev
 .
 .
 .
-152! model		layout	=	geometry
+152! model		layout	=	geometry  
 153  thinkpad     us              =       thinkpad(us)
 154
 155! model		=	geometry
