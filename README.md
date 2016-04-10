@@ -4,7 +4,7 @@
 ![](https://github.com/ZeptByteS/xkb_geometry_microsoft_4000/blob/master/microsoft_ergo_4000.png)  
   
 #**Problems**  
-* Keyboard layout chart window crash when resize window with mouse drag / maximize vertically.  
+* Keyboard layout chart window crashed when resize window horizontally with mouse drag / maximize vertically.  
   
  I don't know why, maybe key shapes are too complex to resize. 
 
@@ -12,6 +12,8 @@
   
   Function lock: do not send a scan code.  
   Keys that have same scan code with other keys.(PageUp, PageDown in Editing, Keypad Backspace)  
+
+  So Function lock and Keypad backspace are just solid shapes, not allocated any scancode.  
 
 
 #Add rules  
