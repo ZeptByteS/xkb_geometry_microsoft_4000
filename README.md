@@ -1,4 +1,5 @@
-(Ubuntu) xkb geometry for Microsoft Natural Ergonomic Keyboard 4000
+(Ubuntu) xkb geometry for
+Microsoft Natural Ergonomic Keyboard 4000
 ------
 
 ![](https://github.com/ZeptByteS/xkb_geometry_microsoft_4000/blob/master/microsoft_ergo_4000.png)  
@@ -46,4 +47,4 @@ Clear XKB's cache
 `cd /var/lib/xkb`  
 `sudo rm *.xkm`
   
-reboot.  
+And reboot.  
